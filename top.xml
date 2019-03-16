@@ -17,6 +17,10 @@
 <appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/congressdp.png</appicon>
 </photography> 
 
-
+       <photography>
+<apptitle>Janasena DP</apptitle>
+<applink>market://details?id=com.jigloostudios.janasenadpmaker</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/janasenadp.png</appicon>
+</photography>
 
 </photographyapps>
