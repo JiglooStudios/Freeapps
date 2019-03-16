@@ -5,5 +5,14 @@
 <applink>market://details?id=com.jigloostudios.photoframes</applink>
 <appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/photoframesicon.png</appicon>
 </photography>
-   
+       <photography>
+<apptitle>Holi Frames</apptitle>
+<applink>market://details?id=com.jigloostudios.holiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/holi.png</appicon>
+</photography>
+     <photography>
+<apptitle>Congress DP</apptitle>
+<applink>market://details?id=com.jigloostudios.congressdpmaker</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/congressdp.png</appicon>
+</photography>
 </photographyapps>
