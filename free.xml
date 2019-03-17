@@ -1,14 +1,25 @@
 <photographyapps>  
    
+
+       <photography>
+<apptitle>Holi Frames</apptitle>
+<applink>market://details?id=com.jigloostudios.holiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/holi.png</appicon>
+</photography>
    <photography>
+<apptitle>IPL DP</apptitle>
+<applink>market://details?id=com.jigloostudios.ipldpmaker</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/ipldp.png</appicon>
+</photography>
+      <photography>
 <apptitle>Photo Frames</apptitle>
 <applink>market://details?id=com.jigloostudios.photoframes</applink>
 <appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/photoframesicon.png</appicon>
 </photography>
        <photography>
-<apptitle>Holi Frames</apptitle>
-<applink>market://details?id=com.jigloostudios.holiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/holi.png</appicon>
+<apptitle>BJP Dp</apptitle>
+<applink>market://details?id=com.jigloostudios.bjpdpmaker</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/bjpdp.png</appicon>
 </photography>
      <photography>
 <apptitle>Congress DP</apptitle>
