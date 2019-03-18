@@ -11,6 +11,11 @@
 <applink>market://details?id=com.jigloostudios.ipldpmaker</applink>
 <appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/ipldp.png</appicon>
 </photography>
+    <photography>
+<apptitle>IPL Photo Suit</apptitle>
+<applink>market://details?id=com.jigloostudios.iplphotosuit</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/iplsuit.png</appicon>
+</photography>
       <photography>
 <apptitle>Photo Frames</apptitle>
 <applink>market://details?id=com.jigloostudios.photoframes</applink>
