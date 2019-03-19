@@ -16,6 +16,16 @@
 <applink>market://details?id=com.jigloostudios.iplphotosuit</applink>
 <appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/iplsuit.png</appicon>
 </photography>
+   <photography>
+<apptitle>Ugadi Frames</apptitle>
+<applink>market://details?id=com.jigloostudios.ugadiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/ugadi.png</appicon>
+</photography>
+      <photography>
+<apptitle>Ram Navami Frames</apptitle>
+<applink>market://details?id=com.jigloostudios.ramnavamiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/ramnavami.png</appicon>
+</photography>
       <photography>
 <apptitle>Photo Frames</apptitle>
 <applink>market://details?id=com.jigloostudios.photoframes</applink>
