@@ -46,4 +46,14 @@
 <applink>market://details?id=com.jigloostudios.janasenadpmaker</applink>
 <appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/janasenadp.png</appicon>
 </photography>
+           <photography>
+<apptitle>TDP DP</apptitle>
+<applink>market://details?id=com.jigloostudios.tdpdpmaker</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/tdpdp.png</appicon>
+</photography>
+        <photography>
+<apptitle>YSRCP DP</apptitle>
+<applink>market://details?id=com.jigloostudios.jsrcpdpmaker</applink>
+<appicon>https://raw.githubusercontent.com/JiglooStudios/Freeapps/master/icons/ysrcpdp.png</appicon>
+</photography>
 </photographyapps>
